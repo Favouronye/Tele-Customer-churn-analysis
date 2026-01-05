@@ -8,6 +8,7 @@ Project Overview
 
 This project analyzes customer churn using the IBM Telecom dataset to identify key factors influencing customer retention and churn. The analysis focuses on contracts, tenure, payment methods, services, and customer demographics. Interactive dashboards were built to communicate insights clearly to non-technical stakeholders.
 
+
 Dataset
 
 Source: IBM Telecom Customer Churn Dataset
@@ -16,11 +17,14 @@ Total Customers: 7,043
 
 Target Variable: Churn (Yes/No)
 
+
 Tools Used
 
 Excel: Data cleaning, preprocessing, and exploratory analysis
 
 Tableau: Interactive dashboards and data visualization
+
+
 
 Key Insights
 
@@ -38,6 +42,8 @@ Customers without tech support, online security, device protection, or backup se
 
 Fiber optic internet users experience higher churn than DSL customers
 
+
+
 Dashboards
 
 The Tableau dashboards highlight:
@@ -49,6 +55,8 @@ Churn by payment method and billing type
 Impact of internet services and add-on services on churn
 
 Demographic analysis of churn behavior
+
+
 
 Business Recommendations
 
@@ -62,6 +70,8 @@ Implement early-tenure retention strategies
 
 Improve customer support to reduce churn driven by dissatisfaction
 
+
+
 Repository Structure
 
 /data – Dataset files
@@ -69,6 +79,8 @@ Repository Structure
 /dashboards – Tableau dashboards or screenshots
 
 /docs – Project documentation
+
+
 
 Author
 

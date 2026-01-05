@@ -1,2 +1,81 @@
 # Tele-Customer-churn-analysis
 Telecom customer churn analysis using the IBM dataset. Built interactive dashboards in Tableau and performed data cleaning and analysis in Excel to identify key churn drivers such as contract type, tenure, payment method, services, and customer demographics.
+
+
+Analysis (IBM Dataset)
+Project Overview
+
+This project analyzes customer churn using the IBM Telecom dataset to identify key factors influencing customer retention and churn. The analysis focuses on contracts, tenure, payment methods, services, and customer demographics. Interactive dashboards were built to communicate insights clearly to non-technical stakeholders.
+
+Dataset
+
+Source: IBM Telecom Customer Churn Dataset
+
+Total Customers: 7,043
+
+Target Variable: Churn (Yes/No)
+
+Tools Used
+
+Excel: Data cleaning, preprocessing, and exploratory analysis
+
+Tableau: Interactive dashboards and data visualization
+
+Key Insights
+
+Overall churn rate is 26.5%
+
+Month-to-month contracts have the highest churn compared to long-term contracts
+
+New customers (0–12 months tenure) are more likely to churn
+
+Senior citizens show higher churn rates than non-senior customers
+
+Customers using electronic check have higher churn than those using automatic payments
+
+Customers without tech support, online security, device protection, or backup services are more likely to churn
+
+Fiber optic internet users experience higher churn than DSL customers
+
+Dashboards
+
+The Tableau dashboards highlight:
+
+Churn distribution by contract type and tenure
+
+Churn by payment method and billing type
+
+Impact of internet services and add-on services on churn
+
+Demographic analysis of churn behavior
+
+Business Recommendations
+
+Encourage customers to switch to long-term contracts
+
+Promote automatic payment methods to reduce churn
+
+Bundle and upsell value-added services (tech support, security, backup)
+
+Implement early-tenure retention strategies
+
+Improve customer support to reduce churn driven by dissatisfaction
+
+Repository Structure
+
+/data – Dataset files
+
+/dashboards – Tableau dashboards or screenshots
+
+/docs – Project documentation
+
+Author
+
+Favour Onye
+GitHub: https://github.com/Favouronye
+
+Status
+
+Completed – Portfolio Project
+
+This project is part of my data analytics portfolio and demonstrates practical skills in Excel analysis and Tableau dashboard storytelling.
